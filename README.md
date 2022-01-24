@@ -12,7 +12,7 @@ Trabalho em projetos envolvendo Engenharia da Computação, Robótica e Marketin
 
 
 ## Detalhes
-- 🔭 Trabalho, atualmente, no Grupo ELLP..
+- 🔭 Trabalho, atualmente, no Grupo ELLP.
 - 🌱 Estou me aprofundando em HTML e CSS.
 - 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento.
 
