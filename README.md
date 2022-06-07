@@ -2,7 +2,7 @@
 <h3 align="center">Developer </h3>
 
 
-Trabalho em projetos envolvendo Engenharia da Computação, Robótica e Marketing. Já vivenciei diferentes áreas envolvendo gerência de projetos, gestão estratégica, desenvolvimento web e marketing. Sou apaixonada por educação e tecnologia. Vejo a área  como uma grande ponte entre o ensino e a tecnologia. Tendo entendimento da importância e dos valores obtidos, sendo possível proporcionar a melhoria da educação consolidada com os setores trabalhados, assim como poder transmitir o seu conhecimento a outras pessoas, impactando positivamente a sociedade.
+Trabalho em projetos envolvendo Engenharia da Computação, Robótica e Design. Já vivenciei diferentes áreas envolvendo gerência de projetos, gestão estratégica, desenvolvimento web e marketing. Sou apaixonada por educação e tecnologia. Vejo a área  como uma grande ponte entre o ensino e a tecnologia. Tendo entendimento da importância e dos valores obtidos, sendo possível proporcionar a melhoria da educação consolidada com os setores trabalhados, assim como poder transmitir o seu conhecimento a outras pessoas, impactando positivamente a sociedade.
 
 ## Skills
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
