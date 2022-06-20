@@ -24,4 +24,5 @@ Trabalho em projetos envolvendo Engenharia da Computação, Robótica e Design. 
 ![GabrielaBueno GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielaBueno&show_icons=true&theme=chartreuse-dark) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaBueno&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
- 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=GabrielaBueno&theme=gotham&hide_border=true&area=true)
+    
