@@ -15,7 +15,7 @@ Trabalho em projetos envolvendo Back-end, Robótica e Design. Já vivenciei dife
 ## Detalhes
 - 🔭 Trabalho, atualmente, no Projeto de Extensão: Grupo ELLP.
 - 🌱 Estou me aprofundando em HTML e CSS.
-- 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento.
+- 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento do conhecimento.
 
 ## Contatos
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielabueno-/)
