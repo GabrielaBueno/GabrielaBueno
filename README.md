@@ -1,6 +1,6 @@
 ### Olá, Seja bem - vindo(a)! ✋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f300b4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriela+Bueno;Developer+in+training;I+from+Cornélio+Procópio,+PR;I+study+Engenharia+da+Computação)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f300b4&size=35&center=true&vCenter=true&width=1000&lines=Hello,Me+chamo+Gabriela+Bueno;Developer+in+training;Eu+sou+Cornélio+Procópio,+PR;Sou+Estudante+de+Engenharia+da+Computação)](https://git.io/typing-svg)
 Trabalho em projetos envolvendo Engenharia da Computação, Robótica e Design. Já vivenciei diferentes áreas envolvendo gerência de projetos, gestão estratégica, desenvolvimento web e marketing. Sou apaixonada por educação e tecnologia. Vejo a área  como uma grande ponte entre o ensino e a tecnologia. Tendo entendimento da importância e dos valores obtidos, sendo possível proporcionar a melhoria da educação consolidada com os setores trabalhados, assim como transmitir o seu conhecimento a outras pessoas, impactando positivamente a sociedade.
 
 ## Skills
