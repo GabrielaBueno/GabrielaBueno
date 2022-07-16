@@ -26,3 +26,10 @@ Trabalho em projetos envolvendo Back-end, Robótica e Design. Já vivenciei dife
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=GabrielaBueno&theme=gotham&hide_border=true&area=true)
     
+<img align="right" alt="GabrielaBueno-gif" height="150" style="border-radius:50px;" src=  "https://media.giphy.com/media/03njSXxICKzw5otlxL/giphy.gif?cid=790b76119e03ac33d17d0f4adbf27d012258b6571736d5f2&rid=giphy.gif&ct=g">
+  <img align
+</div>
+  
+  ##
+  
+  ![Snake animation](https://github.com/GabrielaBueno/GabrielaBueno/blob/output/github-contribution-grid-snake.svg)
