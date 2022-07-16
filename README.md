@@ -1,7 +1,11 @@
 ### Seja bem - vindo(a)! ✋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Olá,Me+chamo+Gabriela+Bueno!;Developer+;Sou+de+Cornélio+Procópio,+PR.;+E+estudante+de+Engenharia+da+Computação.)](https://git.io/typing-svg)
-Trabalho em projetos envolvendo Back-end, Robótica e Design. Já vivenciei diferentes áreas envolvendo gerência de projetos, gestão estratégica, desenvolvimento web e marketing. Sou apaixonada por educação e tecnologia, vejo a área  como uma grande ponte entre o ensino e inovaç. Tendo entendimento da importância e dos valores obtidos, sendo possível proporcionar a melhoria da educação consolidada com os setores trabalhados, assim como transmitir o seu conhecimento a outras pessoas, impactando positivamente a sociedade.
+Trabalho em projetos envolvendo Back-end, Robótica e Design. Já vivenciei diferentes áreas envolvendo gerência de projetos, 
+gestão estratégica, desenvolvimento web e marketing. Sou apaixonada por educação e tecnologia, vejo a área  como uma grande 
+ponte entre o ensino e inovação. 
+Tendo entendimento da importância e dos valores obtidos, sendo possível proporcionar a melhoria da educação consolidada com
+os setores trabalhados, assim como transmitir o seu conhecimento a outras pessoas, impactando positivamente a sociedade.
 
 ## Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -21,8 +25,9 @@ Trabalho em projetos envolvendo Back-end, Robótica e Design. Já vivenciei dife
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielabueno-/)
 
 ## 
-![GabrielaBueno GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielaBueno&show_icons=true&theme=chartreuse-dark) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaBueno&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/GabrielaBueno">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielaBueno&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaBueno&layout=compact&theme=chartreuse-dark"/>
+</div>
 
-##
-![snake gif](https://github.com/YOUR_GabrielaBueno/YOUR_GabrielaBueno/blob/output/github-contribution-grid-snake.gif)
