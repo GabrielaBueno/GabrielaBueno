@@ -25,4 +25,4 @@ Trabalho em projetos envolvendo Back-end, Robótica e Design. Já vivenciei dife
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaBueno&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
-![Snake animation](https://github.com/GabrielaBueno/GabrielaBueno/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/YOUR_GabrielaBueno/YOUR_GabrielaBueno/blob/output/github-contribution-grid-snake.gif)
