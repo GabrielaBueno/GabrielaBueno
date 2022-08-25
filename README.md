@@ -17,7 +17,7 @@ os setores trabalhados, assim como transmitir o seu conhecimento a outras pessoa
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
 ## Detalhes
-- 🔭 Trabalho, atualmente, no Projeto de Extensão: Grupo ELLP.
+- 🔭 Trabalho atualmente, no Projeto de Extensão: Grupo ELLP.
 - 🌱 Estou me aprofundando em HTML e CSS.
 - 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento do conhecimento.
 
