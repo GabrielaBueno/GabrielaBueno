@@ -8,7 +8,7 @@ Tendo entendimento da importância e dos valores obtidos, sendo possível propor
 os setores trabalhados, assim como transmitir o seu conhecimento a outras pessoas, impactando positivamente a sociedade.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=c,java,mysql,r,html,css,js,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,r,java,mysql,html,css,js,python)](https://skillicons.dev)
 
 ## Detalhes
 - 🔭 Trabalho atualmente, no Projeto de Extensão: Grupo ELLP.
