@@ -12,7 +12,7 @@ os setores trabalhados, assim como transmitir o seu conhecimento a outras pessoa
 
 ## Detalhes
 - 🔭 Trabalho atualmente, no Projeto de Extensão: Grupo ELLP.
-- 🌱 Estou me aprofundando em HTML e CSS.
+- 🌱 Estou me aprofundando em web e python.
 - 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento do conhecimento.
 
 ## Contatos
