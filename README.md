@@ -8,13 +8,7 @@ Tendo entendimento da importância e dos valores obtidos, sendo possível propor
 os setores trabalhados, assim como transmitir o seu conhecimento a outras pessoas, impactando positivamente a sociedade.
 
 ## Skills
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=c,java,mysql,r,html,css,js,python)](https://skillicons.dev)
 
 ## Detalhes
 - 🔭 Trabalho atualmente, no Projeto de Extensão: Grupo ELLP.
