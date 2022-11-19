@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Olá,me+chamo+Gabriela+Bueno!;Developer+;Sou+de+Cornélio+Procópio,+PR.;+e+estudante+de+Engenharia+da+Computação.)](https://git.io/typing-svg)
 Trabalho em projetos envolvendo Back-end e Front-end, Robótica e Design. Já vivenciei diferentes áreas envolvendo gerência de projetos, 
-gestão estratégica,educação, desenvolvimento web e marketing. Sou apaixonada por educação e tecnologia, vejo a área  como uma grande 
+gestão estratégica, educação, desenvolvimento web e marketing. Sou apaixonada por educação e tecnologia, vejo a área  como uma grande 
 ponte entre o ensino e inovação. 
 Tendo entendimento da importância e dos valores obtidos, sendo possível proporcionar a melhoria da educação consolidada com
 os setores trabalhados, assim como transmitir o seu conhecimento a outras pessoas, impactando positivamente a sociedade.
