@@ -1,18 +1,18 @@
 ### Seja bem - vindo(a)! ✋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Olá,me+chamo+Gabriela+Bueno!;Developer+;Sou+de+Cornélio+Procópio,+PR.;+e+estudante+de+Engenharia+da+Computação.)](https://git.io/typing-svg)
-Trabalho em projetos envolvendo Back-end e Front-end, Robótica e Design. Já vivenciei diferentes áreas envolvendo gerência de projetos, 
-gestão estratégica, educação, desenvolvimento web e marketing. Sou apaixonada por educação e tecnologia, vejo a área  como uma grande 
-ponte entre o ensino e inovação. 
-Tendo entendimento da importância e dos valores obtidos, sendo possível proporcionar a melhoria da educação consolidada com
-os setores trabalhados, assim como transmitir o seu conhecimento a outras pessoas, impactando positivamente a sociedade.
+Sou uma profissional apaixonada por educação e tecnologia, e meu trabalho abrange projetos de Back-end e Front-end, Robótica e Design. Já vivenciei diferentes áreas, incluindo gerência de projetos, gestão estratégica, educação, desenvolvimento web e marketing.
+
+Acredito que a educação é uma peça fundamental para impulsionar a inovação, e vejo a tecnologia como uma poderosa ponte entre o ensino e a transformação da sociedade. Compreendo a importância desses valores e como eles podem impactar positivamente a melhoria da educação, consolidando-os com os setores em que atuo.
+
+Além disso, tenho imensa satisfação em compartilhar meu conhecimento com outras pessoas, buscando inspirar e influenciar positivamente a sociedade através da disseminação das minhas experiências e aprendizados.Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente, continuando a contribuir para o avanço da educação e da tecnologia. Vamos juntas construir um futuro melhor!
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=c,r,java,mysql,html,css,js,python)](https://skillicons.dev)
 
 ## Detalhes
-- 🔭 Trabalho atualmente, no Projeto de Extensão: Grupo ELLP.
-- 🌱 Estou me aprofundando em web e python.
+- 🔭 Trabalho com projetos voluntários e inicicação cientifica.
+- 🌱 Estou me aprofundando em front-end.
 - 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento do conhecimento.
 
 ## Contatos
