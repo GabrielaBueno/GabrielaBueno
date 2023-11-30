@@ -8,11 +8,11 @@ Acredito que a educação é uma peça fundamental para impulsionar a inovação
 Além disso, tenho imensa satisfação em compartilhar meu conhecimento com outras pessoas, buscando inspirar e influenciar positivamente a sociedade através da disseminação das minhas experiências e aprendizados.Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente, continuando a contribuir para o avanço da educação e da tecnologia. Vamos juntas construir um futuro melhor!
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=c,r,java,mysql,html,css,js,python,arduino,figma,jquery,mongodb,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,r,java,mysql,html,css,js,python,arduino,figma,jquery,mongodb,ps,angular,android,ionic)](https://skillicons.dev)
 
 ## Detalhes
 - 🔭 Trabalho com projetos voluntários e inicicação cientifica.
-- 🌱 Estou me aprofundando em front-end.
+- 🌱 Estou me aprofundando em front-end e Mobile.
 - 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento do conhecimento.
 
 ## Contatos
