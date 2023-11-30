@@ -21,7 +21,6 @@ Além disso, tenho imensa satisfação em compartilhar meu conhecimento com outr
 ## 
 <div align="center">
   <a href="https://github.com/GabrielaBueno">
-  count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaBueno&layout=compact&theme=chartreuse-dark"/>
 </div>
 
