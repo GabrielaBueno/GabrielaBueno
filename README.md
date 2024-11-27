@@ -1,6 +1,6 @@
 ### Seja bem - vindo(a)! ✋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Olá,me+chamo+Gabriela+Bueno!;Developer+;Sou+residente+de+Cornélio+Procópio,+PR.; + Sou +Engenheira+de+Computação.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Olá,me+chamo+Gabriela+Bueno!;Developer+;Sou+residente+de+Cornélio+Procópio,+PR.;+ Sou +Engenheira+de+Computação.)](https://git.io/typing-svg)
 Sou uma profissional apaixonada por educação e tecnologia, e projetos que abrange Back-end, Front-end, Robótica e Design. Já vivenciei diferentes áreas, incluindo gerência de projetos, gestão estratégica, educação, desenvolvimento web e marketing.
 
 Acredito que a educação é uma peça fundamental para impulsionar a inovação, e vejo a tecnologia como uma poderosa ponte entre o ensino e a transformação da sociedade. Compreendo a importância desses valores e como eles podem impactar positivamente a melhoria da educação, consolidando-os com os setores em que atuo.
