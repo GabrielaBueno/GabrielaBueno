@@ -11,8 +11,6 @@ Além disso, tenho imensa satisfação em compartilhar meu conhecimento com outr
 [![My Skills](https://skillicons.dev/icons?i=c,r,java,mysql,html,css,js,python,arduino,figma,jquery,mongodb,ps,react,angular,android,mobile,ionic)](https://skillicons.dev)
 
 ## Detalhes
-- 🔭 Trabalho com projetos voluntários e inicicação cientifica.
-- 🌱 Estou me aprofundando em front-end e Mobile.
 - 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento do conhecimento.
 
 ## Contatos
