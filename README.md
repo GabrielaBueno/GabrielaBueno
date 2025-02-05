@@ -9,10 +9,10 @@ Acredito que a educação é essencial para fomentar a inovação, enquanto a te
 Compartilhar conhecimento e inspirar a sociedade são minhas grandes paixões. Procuro constantemente novos desafios e oportunidades para crescimento profissional, visando contribuir para o progresso da educação e da tecnologia. Juntos, podemos construir um futuro mais promissor!
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=c,r,java,mysql,html,css,js,python,arduino,figma,jquery,mongodb,ps,react,angular,flutter,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,r,java,mysql,python,html,css,js,arduino,figma,jquery,mongodb,ps,react,angular,flutter,matlab,proteus,autoCAD)](https://skillicons.dev)
 
 ## Detalhes
-- 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento do conhecimento.
+- ☕ Tenho prazer em vivenciar novas aprendizagens e contribuir para a troca de conhecimento.
 
 ## Contatos
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielabueno-/)
