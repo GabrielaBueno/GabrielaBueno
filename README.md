@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Olá,me+chamo+Gabriela+Bueno!;+Sou+Engenheira+de+Computação,+;E+atuo+como+Desenvolvedora.;)](https://git.io/typing-svg)
 
-Sou uma entusiasta da educação e tecnologia, com atuação em projetos de Back-end, Front-end, Robótica e Design. Minha jornada profissional inclui experiências em gerência de projetos, gestão estratégica, educação, desenvolvimento web e marketing.
+Sou uma profissional apaixonada por educação e tecnologia, atuando em projetos de Back-end, Front-end, Robótica e Design. Minha trajetória inclui experiências diversas, abrangendo gerência de projetos, gestão estratégica, educação, desenvolvimento web e marketing.
 
 Acredito que a educação é essencial para fomentar a inovação, enquanto a tecnologia atua como uma poderosa ferramenta para transformar a sociedade. Entendo a importância desses princípios e como eles podem influenciar positivamente a melhoria da educação, consolidando-os nas áreas em que trabalho.
 
