@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Olá,me+chamo+Gabriela+Bueno!;+Sou+Engenheira+de+Computação,+;E+atuo+como+Desenvolvedora.;)](https://git.io/typing-svg)
 
-Sou uma profissional apaixonada por educação e tecnologia, com experiência em projetos Full Stack, Robótica e Design. Minha trajetória abrange áreas como gestão de projetos, estratégia empresarial, educação, desenvolvimento web e marketing.
+Sou uma profissional apaixonada por educação e tecnologia, com experiência em projetos Full Stack, QA, Robótica e Design. Minha trajetória abrange áreas como gestão de projetos, estratégia empresarial, educação, desenvolvimento web e marketing.
 
 Acredito que a educação é fundamental para impulsionar a inovação, enquanto a tecnologia desempenha um papel transformador na sociedade. Compreendo a relevância desses princípios e como eles podem promover melhorias significativas, tanto na educação quanto nas áreas em que atuo.
 
