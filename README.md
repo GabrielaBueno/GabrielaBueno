@@ -5,10 +5,14 @@ Acredito que a educação é um motor essencial para a inovação, enquanto a te
 
 🚀 Compartilhar conhecimento e inspirar mudanças são minhas principais motivações. Vamos juntos construir um futuro mais inovador?
 
-✨ Sobre Mim
+✨ Sobre Mim:
+
 🎓 Formada em Engenharia de Computação pela UTFPR – Cornélio Procópio.
+
 💻 Experiência com desenvolvimento Full Stack, QA e Robótica.
+
 📊 Interesse por educação, tecnologia e inovação.
+
 🚀 Sempre buscando novos desafios e oportunidades para crescimento profissional.
 
 🛠️ Tecnologias e Ferramentas
