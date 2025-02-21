@@ -1,19 +1,52 @@
-### Seja bem - vindo(a)! ✋
+### 👋 Seja bem-vindo(a) ao meu espaço no GitHub!
+Sou uma profissional apaixonada por educação e tecnologia, com experiência em desenvolvimento Full Stack, QA, Robótica e Design. Minha trajetória envolve áreas como gestão de projetos, estratégia empresarial, desenvolvimento web e marketing.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Olá,me+chamo+Gabriela+Bueno!;+Sou+Engenheira+de+Computação,+;E+atuo+como+Desenvolvedora.;)](https://git.io/typing-svg)
+Acredito que a educação é um motor essencial para a inovação, enquanto a tecnologia desempenha um papel transformador na sociedade. Estou sempre buscando novos desafios e oportunidades para aprender e contribuir para o avanço dessas áreas.
 
-Sou uma profissional apaixonada por educação e tecnologia, com experiência em projetos Full Stack, QA, Robótica e Design. Minha trajetória abrange áreas como gestão de projetos, estratégia empresarial, educação, desenvolvimento web e marketing.
+🚀 Compartilhar conhecimento e inspirar mudanças são minhas principais motivações. Vamos juntos construir um futuro mais inovador?
 
-Acredito que a educação é fundamental para impulsionar a inovação, enquanto a tecnologia desempenha um papel transformador na sociedade. Compreendo a relevância desses princípios e como eles podem promover melhorias significativas, tanto na educação quanto nas áreas em que atuo.
+✨ Sobre Mim
+🎓 Formada em Engenharia de Computação pela UTFPR – Cornélio Procópio.
+💻 Experiência com desenvolvimento Full Stack, QA e Robótica.
+📊 Interesse por educação, tecnologia e inovação.
+🚀 Sempre buscando novos desafios e oportunidades para crescimento profissional.
 
-Compartilhar conhecimento e inspirar mudanças são minhas principais motivações. Estou sempre em busca de novos desafios e oportunidades de crescimento profissional, com o objetivo de contribuir para o avanço da educação e da tecnologia. Juntos, podemos construir um futuro mais promissor!
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=c,r,java,mysql,python,html,css,js,react,figma,arduino,jquery,mongodb,ps,angular,flutter,matlab,)](https://skillicons.dev)
+🛠️ Tecnologias e Ferramentas
+💻 Linguagens de Programação
+Python • JavaScript • HTML5 • CSS3 • SQL • C • Java
 
-## Detalhes
-- ☕ Tenho prazer em vivenciar novas aprendizagens e contribuir para a troca de conhecimento.
+⚙️ Frameworks & Bibliotecas
+Django • Flask • React • Node.js
 
-## Contatos
+🤖 Robótica e Automação
+Lego Mindstorms EV3 • Drones Tello DJI
+
+📊 Testes e Qualidade de Software
+K6 • Postman • Selenium
+
+🔧 Ferramentas de Desenvolvimento
+Git • GitHub • Figma
+
+🚀 Projetos em Destaque
+📌 **[ClimateSafe](https://github.com/GabrielaBueno/ClimateSafe)** – Sistema desenvolvido como Trabalho de Conclusão de Curso (TCC), voltado para auxiliar moradores de áreas de risco, fornecendo informações sobre primeiros socorros, contatos de emergência, previsão do tempo e locais seguros para evacuação.
+
+📌 **[MobileIncTech](https://github.com/GabrielaBueno/IncTech)** – Aplicação móvel para facilitar o acesso à incubadora da universidade, oferecendo informações cruciais para o desenvolvimento de novos negócios e inovações.
+
+📌 **[Sistema Hospitalar](https://github.com/GabrielaBueno/Sistema-Hospitalar)** – Sistema voltado para segurança e auditoria de prontuários médicos, garantindo criptografia e controle de acesso a dados sensíveis.
+
+📌 **[QA - Formulário de Cadastro](https://github.com/GabrielaBueno/QA-Formulario-de-Cadastro)** – Implementação e testes de qualidade para um formulário de cadastro, incluindo testes de interface (E2E), API e performance.
+
+🎯 Meus Objetivos
+🌟 Contribuir para projetos open-source e fortalecer minhas habilidades colaborativas.
+🚀 Desenvolver soluções inovadoras que impactem a educação e a tecnologia.
+📚 Aprender continuamente e aplicar o conhecimento em projetos reais.
+
+📫 Contatos
+📌 [LinkedIn](https://www.linkedin.com/in/gabrielabueno-/)
+
+⭐ Obrigada por visitar meu perfil! ⭐
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielabueno-/)
 
 ## 
