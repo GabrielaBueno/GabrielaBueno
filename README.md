@@ -22,12 +22,15 @@ Acredito que a educação é um motor essencial para a inovação, enquanto a te
 - SQL
 - C
 - Java
+- C#
 
 ### ⚙️ Frameworks & Bibliotecas
 - Django
 - Flask
 - React
 - Node.js
+- Flutter
+- Ionic
 
 ### 🤖 Robótica e Automação
 - Lego Mindstorms EV3
@@ -37,8 +40,15 @@ Acredito que a educação é um motor essencial para a inovação, enquanto a te
 - K6
 - Postman
 - Selenium
+- Cypress
 
-### 🔧 Ferramentas de Desenvolvimento
+### 📱 Desenvolvimento Mobile
+- Android
+
+### ⚙️ Outras Ferramentas
+- MATLAB
+- AutoCAD
+- Proteus
 - Git
 - GitHub
 - Figma
@@ -58,14 +68,13 @@ Acredito que a educação é um motor essencial para a inovação, enquanto a te
 - 📚 Aprender continuamente e aplicar o conhecimento em projetos reais.
 
 ## 📫 Contatos
-- 📌 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielabueno-/)
+- 📌[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielabueno-/)
 
 <div align="center">
   <a href="https://github.com/GabrielaBueno">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaBueno&layout=compact&theme=chartreuse-dark"/>
   </a>
 </div>
-
 ⭐ Obrigada por visitar meu perfil! ⭐
 
 
