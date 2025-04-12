@@ -61,13 +61,11 @@ Acredito que a educação é um motor essencial para a inovação, enquanto a te
 - 📌 **[Sistema Hospitalar](https://github.com/GabrielaBueno/Sistema-Hospitalar)** – Sistema voltado para segurança e auditoria de prontuários médicos, garantindo criptografia e controle de acesso a dados sensíveis.
 
 - 📌 **[QA - Formulário de Cadastro](https://github.com/GabrielaBueno/QA-Formulario-de-Cadastro)** – Implementação e testes de qualidade para um formulário de cadastro, incluindo testes de interface (E2E), API e performance.
-  
-- 📌[Imersão Dev](https://github.com/GabrielaBueno/Games)  – Desenvolvimento de cinco jogos interativos com HTML, CSS e JavaScript, aplicando lógica de programação, manipulação de dados e interatividade com foco em fundamentos da programação.
+
+- 📌 **[Imersão Dev](https://github.com/GabrielaBueno/Games)** – Desenvolvimento de cinco jogos interativos com HTML, CSS e JavaScript, aplicando lógica de programação, manipulação de dados e interatividade com foco em fundamentos da programação.  
 Inclui jogos como Conversor de Moedas, Pedra Papel e Tesoura, Salto na Ponte de Vidro, Cabo de Guerra e Quiz Interativo.
 
-📌 [Projeto Dragon Ball](https://github.com/GabrielaBueno/Dragon-Ball) – Criação de site responsivo com temática Dragon Ball, aplicando HTML, CSS e JavaScript. O projeto permite a alternância entre personagens fictícios com exibição dinâmica de conteúdo, efeitos visuais e layout adaptável para dispositivos móveis.
-
-
+- 📌 **[Projeto Dragon Ball](https://github.com/GabrielaBueno/Dragon-Ball)** – Criação de site responsivo com temática Dragon Ball, aplicando HTML, CSS e JavaScript. O projeto permite a alternância entre personagens fictícios com exibição dinâmica de conteúdo, efeitos visuais e layout adaptável para dispositivos móveis.
 
 ## 🎯 Meus Objetivos
 - 🌟 Contribuir para projetos open-source e fortalecer minhas habilidades colaborativas.
