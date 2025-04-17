@@ -66,8 +66,7 @@ Acredito que a educação é um motor essencial para a inovação, enquanto a te
 Inclui jogos como Conversor de Moedas, Pedra Papel e Tesoura, Salto na Ponte de Vidro, Cabo de Guerra e Quiz Interativo.
 
 - 📌 **[Projeto Dragon Ball](https://github.com/GabrielaBueno/Dragon-Ball)** – Criação de site responsivo com temática Dragon Ball, aplicando HTML, CSS e JavaScript. O projeto permite a alternância entre personagens fictícios com exibição dinâmica de conteúdo, efeitos visuais e layout adaptável para dispositivos móveis.
-- 📌 [Projeto Mobile](https://github.com/GabrielaBueno/Mobile)
-Aplicação de delivery criada com Flutter, usando Provider para gerenciamento de estado, navegação entre telas e leitura de dados em JSON.
+- 📌 [Projeto Mobile](https://github.com/GabrielaBueno/Mobile) - Aplicação de delivery criada com Flutter, usando Provider para gerenciamento de estado, navegação entre telas e leitura de dados em JSON.
 Design moderno, estrutura modularizada e telas como Splash Screen, Home, Detalhes de Restaurante e Checkout.
 
 ## 🎯 Meus Objetivos
