@@ -14,44 +14,45 @@ Acredito que a educação é um motor essencial para a inovação, enquanto a te
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 💻 Linguagens de Programação
-- Python
-- JavaScript
-- HTML5
-- CSS3
-- SQL
-- C
-- Java
-- C#
+### 💻 Linguagens de Programação  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) Python  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) HTML5  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) CSS3  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) SQL  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) C  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) Java  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) C#  
 
-### ⚙️ Frameworks & Bibliotecas
-- Django
-- Flask
-- React
-- Node.js
-- Flutter
-- Ionic
+### ⚙️ Frameworks & Bibliotecas  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) Django  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) Flask  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) React  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) Node.js  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) Flutter  
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white) Ionic  
 
-### 🤖 Robótica e Automação
-- Lego Mindstorms EV3
-- Drones Tello DJI
+### 🤖 Robótica e Automação  
+![LEGO](https://img.shields.io/badge/-Lego%20Mindstorms-E2231A?style=flat&logo=lego&logoColor=white) Lego Mindstorms EV3  
+![Tello DJI](https://img.shields.io/badge/-DJI-000000?style=flat&logo=dji&logoColor=white) Drones Tello DJI  
 
-### 📊 Testes e Qualidade de Software
-- K6
-- Postman
-- Selenium
-- Cypress
+### 📊 Testes e Qualidade de Software  
+![K6](https://img.shields.io/badge/-K6-7D64FF?style=flat&logo=k6&logoColor=white) K6  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) Postman  
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) Selenium  
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white) Cypress  
 
-### 📱 Desenvolvimento Mobile
-- Android
+### 📱 Desenvolvimento Mobile  
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white) Android  
 
-### ⚙️ Outras Ferramentas
-- MATLAB
-- AutoCAD
-- Proteus
-- Git
-- GitHub
-- Figma
+### ⚙️ Outras Ferramentas  
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) MATLAB  
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-EF1C21?style=flat&logo=autodesk&logoColor=white) AutoCAD  
+![Proteus](https://img.shields.io/badge/-Proteus-004080?style=flat&logo=proteus&logoColor=white) Proteus  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) Git  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) GitHub  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) Figma  
+
 
 ## 🚀 Projetos em Destaque
 - 📌 **[ClimateSafe](https://github.com/GabrielaBueno/ClimateSafe)** – Sistema desenvolvido como Trabalho de Conclusão de Curso (TCC), voltado para auxiliar moradores de áreas de risco, fornecendo informações sobre primeiros socorros, contatos de emergência, previsão do tempo e locais seguros para evacuação.
