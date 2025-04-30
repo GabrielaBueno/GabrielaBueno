@@ -36,7 +36,7 @@ Acredito que a educação é um motor essencial para a inovação, enquanto a te
 ### 📊 Testes e Qualidade de Software  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) 
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)  
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![K6](https://img.shields.io/badge/-K6-7D64FF?style=flat&logo=k6&logoColor=white)  
 
 ### 📱 Desenvolvimento Mobile  
