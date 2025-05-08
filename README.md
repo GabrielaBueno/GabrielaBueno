@@ -16,6 +16,7 @@ Acredito que a educação é um motor essencial para a inovação, enquanto a te
 
 ## 💻 Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=fff)
@@ -23,21 +24,27 @@ Acredito que a educação é um motor essencial para a inovação, enquanto a te
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=fff)
+![NoSQL](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 
 ## ⚙️ Frameworks & Bibliotecas
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff)
+![Electron.js](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=fff)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=fff)
+![TypeORM](https://img.shields.io/badge/-TypeORM-FBF6F0?style=for-the-badge&logo=typeorm&logoColor=000)
 
 ## 📊 Testes e Qualidade de Software
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=fff)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=fff)
 ![K6](https://img.shields.io/badge/-k6-7D64FF?style=for-the-badge&logo=k6&logoColor=fff)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)
 
 ## 📱 Desenvolvimento Mobile
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=fff)
