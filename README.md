@@ -12,49 +12,48 @@ Acredito que a educação é um motor essencial para a inovação, enquanto a te
 - 📊 Interesse por educação, tecnologia e inovação.
 - 🚀 Sempre buscando novos desafios e oportunidades para crescimento profissional.
 
-## 🛠️ Tecnologias e Ferramentas
+# 🛠️ Tecnologias e Ferramentas
 
-### 💻 Linguagens de Programação  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-47A248?style=flat&logo=mongodb&logoColor=white)  
+## 💻 Linguagens de Programação
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=fff)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=fff)
 
-### ⚙️ Frameworks & Bibliotecas  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
-![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white) 
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) 
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
+## ⚙️ Frameworks & Bibliotecas
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=fff)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=fff)
 
-### 📊 Testes e Qualidade de Software  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) 
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-![K6](https://img.shields.io/badge/-K6-7D64FF?style=flat&logo=k6&logoColor=white)  
+## 📊 Testes e Qualidade de Software
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=fff)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=fff)
+![K6](https://img.shields.io/badge/-k6-7D64FF?style=for-the-badge&logo=k6&logoColor=fff)
 
-### 📱 Desenvolvimento Mobile  
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)  
+## 📱 Desenvolvimento Mobile
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=fff)
 
-### 🤖 Robótica e Automação  
-![Tello DJI](https://img.shields.io/badge/-DJI-000000?style=flat&logo=dji&logoColor=white) 
-![LEGO](https://img.shields.io/badge/-Lego%20Mindstorms-E2231A?style=flat&logo=lego&logoColor=white)  
+## 🤖 Robótica e Automação
+![Tello](https://img.shields.io/badge/-Tello-000000?style=for-the-badge&logo=dji&logoColor=fff)
+![LEGO](https://img.shields.io/badge/-LEGO-F7D117?style=for-the-badge&logo=lego&logoColor=000)
 
-### ⚙️ Outras Ferramentas  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) 
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-EF1C21?style=flat&logo=autodesk&logoColor=white) 
-![Proteus](https://img.shields.io/badge/-Proteus-004080?style=flat&logo=proteus&logoColor=white)  
+## ⚙️ Outras Ferramentas
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=fff)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-E1222B?style=for-the-badge&logo=autodesk&logoColor=fff)
+![Proteus](https://img.shields.io/badge/-Proteus-1A1A1A?style=for-the-badge&logoColor=fff)
 
- 
 
 
 ## 🚀 Projetos em Destaque
