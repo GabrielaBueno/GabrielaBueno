@@ -8,7 +8,7 @@ Acredito que a educação é um motor essencial para a inovação, enquanto a te
 
 ## ✨ Sobre Mim:
 - 🎓 Formada em Engenharia de Computação pela UTFPR – Cornélio Procópio.
--  Atuo como Trainee BPO pela Tata Consultancy Services (TCS)
+- 💼 Atuo como Trainee BPO pela Tata Consultancy Services (TCS)
 - 💻 Experiência com desenvolvimento Full Stack, QA e Robótica.
 - 📊 Interesse por educação, tecnologia e inovação.
 - 🚀 Sempre buscando novos desafios e oportunidades para crescimento profissional.
